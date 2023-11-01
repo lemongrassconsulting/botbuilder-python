@@ -1,3 +1,6 @@
+# Modifications
+This is a fork of the Microsoft Bot Framework SDK for Python. The purpose of this fork is to add support for the botbuilder-dialogs to exist within a package having nltk. The unforked version has a conflict with the regex package.
+
 # ![Bot Framework SDK v4 Python](./doc/media/FrameWorkPython.png)
 
 This repository contains code for the Python version of the [Microsoft Bot Framework SDK](https://github.com/Microsoft/botframework-sdk), which is part of the Microsoft Bot Framework - a comprehensive framework for building enterprise-grade conversational AI experiences.
